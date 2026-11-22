@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Personal data, exports, and trained model artifacts
+*.json
+*.zip
+data/
+artifacts/
+
+# Private working notebook with personal chat outputs
+notebook.ipynb
+
+
+*.zip
